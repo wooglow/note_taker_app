@@ -57,9 +57,12 @@ app.delete("/api/notes/:id", function(req, res) {
   const newData = data.filter( note => note.id.toString() !== noteId );
   fs.writeFileSync('./db/db.json', JSON.stringify(newData));
   console.log(`Successfully deleted note with id : ${noteId}`);
-  res.json(newData.notes);
+  res.json(newdata.loadNotes())
+  });
+
+  
   // res.json(newdata.allNotes());
-});
+
 
 newdata.loadNotes().then( () => {
   app.listen(PORT, () => console.log(`App listening on PORT ${PORT}`));
