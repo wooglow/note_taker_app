@@ -2,9 +2,13 @@
 
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
-  ## License
+## License
   
   This project is licensed under the GPL v3 license.
+  
+## Heroku Deployment Link
+  
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   
 
@@ -19,13 +23,12 @@
 
 
 ## Description: 
-- You can create your own notes, and delete them.
+- You can create your own notes, save, and delete them.
 
 ## Install:
     - Type "npm init -y", then "npm i express".
 
 ## Usage: 
-    - Type "node server.js", then open heroku deployment page
     - Type your notes, and save them, and delete whenever you want
 ![usagevideo](./src/note_taker_app_trial_video.gif)
 
