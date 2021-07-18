@@ -27,7 +27,7 @@
 ## Usage: 
     - Type "node server.js", then open heroku deployment page
     - Type your notes, and save them, and delete whenever you want
-
+![usagevideo](./src/note_taker_app_trial_video.gif)
 
 ## Contributor:  
 - Daeyoung Bae 
