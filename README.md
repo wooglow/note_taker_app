@@ -8,8 +8,7 @@
   
 ## Heroku Deployment Link
   
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  
+  [![Heroku Deployment Link](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://note-maker-app-1204.herokuapp.com/)
   
 
 ## Table of Contents
@@ -19,7 +18,6 @@
 - [Test](#test)
 - [Contributor](#contributor)
 - [Contact](#contact)
-
 
 
 ## Description: 
