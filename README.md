@@ -8,7 +8,7 @@
   
 ## Heroku Deployment Link
   
-  [![Heroku Deployment Link](https://note-maker-app-1204.herokuapp.com/)
+  [Note Taker App](https://note-maker-app-1204.herokuapp.com/)
   
 
 ## Table of Contents
