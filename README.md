@@ -25,10 +25,9 @@
     - Type "npm init -y", then "npm i express".
 
 ## Usage: 
-    - Type "node server.js", then open heroku deployment page, then type your notes, and save them, and delete whenever you want
+    - Type "node server.js", then open heroku deployment page
+    - Type your notes, and save them, and delete whenever you want
 
-## Test:  
-- Dont need to test 
 
 ## Contributor:  
 - Daeyoung Bae 
